@@ -216,7 +216,7 @@ const updateCurrentUser = async (req, res) => {
     new: true,
     runValidators: true,
   });
-  res.status(StatusCodes.OK).json({ user });
+  res.status(StatusCodes.OK).json({msg:"User updated successfully", user:{name:user.name?user.name:null,user_name:user.user_name,email:user.email,age:user.age?user.age:null,bio:user.bio?user.bio:null}});
 };
 
 
