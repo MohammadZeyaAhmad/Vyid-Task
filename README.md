@@ -2,7 +2,7 @@
 Depoyed url (deployed using  branch `master`):`https://vyld-task.onrender.com`
 
 
-#Postman Documentation:https://documenter.getpostman.com/view/22497198/2s9YXh52o6</br>
+#Postman Documentation:https://documenter.getpostman.com/view/22497198/2s9YeK4Vpd</br>
 
 
 # How to run this application locally
